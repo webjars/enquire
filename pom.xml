@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>enquire</artifactId>
-    <version>2.1.1-SNAPSHOT</version>
+    <version>2.1.1</version>
     <name>Enquire</name>
     <description>WebJar for Enquire</description>
     <url>http://webjars.org</url>
@@ -50,7 +50,7 @@
         <url>http://github.com/webjars/enquire</url>
         <connection>scm:git:https://github.com/webjars/enquire.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/enquire.git</developerConnection>
-        <tag>HEAD</tag>
+        <tag>enquire-2.1.1</tag>
     </scm>
     
     <dependencies>
